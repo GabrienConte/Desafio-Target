@@ -1,0 +1,15 @@
+C:\Users\Gabriel Conte\source\repos\Desafio-Target-ConsoleAPP\Desafio-Target-ConsoleAPP\bin\Debug\net6.0\Desafio-Target-1.exe
+C:\Users\Gabriel Conte\source\repos\Desafio-Target-ConsoleAPP\Desafio-Target-ConsoleAPP\bin\Debug\net6.0\Desafio-Target-1.deps.json
+C:\Users\Gabriel Conte\source\repos\Desafio-Target-ConsoleAPP\Desafio-Target-ConsoleAPP\bin\Debug\net6.0\Desafio-Target-1.runtimeconfig.json
+C:\Users\Gabriel Conte\source\repos\Desafio-Target-ConsoleAPP\Desafio-Target-ConsoleAPP\bin\Debug\net6.0\Desafio-Target-1.dll
+C:\Users\Gabriel Conte\source\repos\Desafio-Target-ConsoleAPP\Desafio-Target-ConsoleAPP\bin\Debug\net6.0\Desafio-Target-1.pdb
+C:\Users\Gabriel Conte\source\repos\Desafio-Target-ConsoleAPP\Desafio-Target-ConsoleAPP\obj\Debug\net6.0\Desafio-Target-1.csproj.AssemblyReference.cache
+C:\Users\Gabriel Conte\source\repos\Desafio-Target-ConsoleAPP\Desafio-Target-ConsoleAPP\obj\Debug\net6.0\Desafio-Target-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Conte\source\repos\Desafio-Target-ConsoleAPP\Desafio-Target-ConsoleAPP\obj\Debug\net6.0\Desafio-Target-1.AssemblyInfoInputs.cache
+C:\Users\Gabriel Conte\source\repos\Desafio-Target-ConsoleAPP\Desafio-Target-ConsoleAPP\obj\Debug\net6.0\Desafio-Target-1.AssemblyInfo.cs
+C:\Users\Gabriel Conte\source\repos\Desafio-Target-ConsoleAPP\Desafio-Target-ConsoleAPP\obj\Debug\net6.0\Desafio-Target-1.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Conte\source\repos\Desafio-Target-ConsoleAPP\Desafio-Target-ConsoleAPP\obj\Debug\net6.0\Desafio-Target-1.dll
+C:\Users\Gabriel Conte\source\repos\Desafio-Target-ConsoleAPP\Desafio-Target-ConsoleAPP\obj\Debug\net6.0\refint\Desafio-Target-1.dll
+C:\Users\Gabriel Conte\source\repos\Desafio-Target-ConsoleAPP\Desafio-Target-ConsoleAPP\obj\Debug\net6.0\Desafio-Target-1.pdb
+C:\Users\Gabriel Conte\source\repos\Desafio-Target-ConsoleAPP\Desafio-Target-ConsoleAPP\obj\Debug\net6.0\Desafio-Target-1.genruntimeconfig.cache
+C:\Users\Gabriel Conte\source\repos\Desafio-Target-ConsoleAPP\Desafio-Target-ConsoleAPP\obj\Debug\net6.0\ref\Desafio-Target-1.dll
