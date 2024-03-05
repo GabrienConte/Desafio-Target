@@ -1,0 +1,15 @@
+C:\Users\Gabriel Conte\source\repos\Desafio-Target\Desafio-Target-ConsoleAPP\Desafio-Target-5\bin\Debug\net6.0\Desafio-Target-5.exe
+C:\Users\Gabriel Conte\source\repos\Desafio-Target\Desafio-Target-ConsoleAPP\Desafio-Target-5\bin\Debug\net6.0\Desafio-Target-5.deps.json
+C:\Users\Gabriel Conte\source\repos\Desafio-Target\Desafio-Target-ConsoleAPP\Desafio-Target-5\bin\Debug\net6.0\Desafio-Target-5.runtimeconfig.json
+C:\Users\Gabriel Conte\source\repos\Desafio-Target\Desafio-Target-ConsoleAPP\Desafio-Target-5\bin\Debug\net6.0\Desafio-Target-5.dll
+C:\Users\Gabriel Conte\source\repos\Desafio-Target\Desafio-Target-ConsoleAPP\Desafio-Target-5\bin\Debug\net6.0\Desafio-Target-5.pdb
+C:\Users\Gabriel Conte\source\repos\Desafio-Target\Desafio-Target-ConsoleAPP\Desafio-Target-5\obj\Debug\net6.0\Desafio-Target-5.csproj.AssemblyReference.cache
+C:\Users\Gabriel Conte\source\repos\Desafio-Target\Desafio-Target-ConsoleAPP\Desafio-Target-5\obj\Debug\net6.0\Desafio-Target-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Conte\source\repos\Desafio-Target\Desafio-Target-ConsoleAPP\Desafio-Target-5\obj\Debug\net6.0\Desafio-Target-5.AssemblyInfoInputs.cache
+C:\Users\Gabriel Conte\source\repos\Desafio-Target\Desafio-Target-ConsoleAPP\Desafio-Target-5\obj\Debug\net6.0\Desafio-Target-5.AssemblyInfo.cs
+C:\Users\Gabriel Conte\source\repos\Desafio-Target\Desafio-Target-ConsoleAPP\Desafio-Target-5\obj\Debug\net6.0\Desafio-Target-5.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Conte\source\repos\Desafio-Target\Desafio-Target-ConsoleAPP\Desafio-Target-5\obj\Debug\net6.0\Desafio-Target-5.dll
+C:\Users\Gabriel Conte\source\repos\Desafio-Target\Desafio-Target-ConsoleAPP\Desafio-Target-5\obj\Debug\net6.0\refint\Desafio-Target-5.dll
+C:\Users\Gabriel Conte\source\repos\Desafio-Target\Desafio-Target-ConsoleAPP\Desafio-Target-5\obj\Debug\net6.0\Desafio-Target-5.pdb
+C:\Users\Gabriel Conte\source\repos\Desafio-Target\Desafio-Target-ConsoleAPP\Desafio-Target-5\obj\Debug\net6.0\Desafio-Target-5.genruntimeconfig.cache
+C:\Users\Gabriel Conte\source\repos\Desafio-Target\Desafio-Target-ConsoleAPP\Desafio-Target-5\obj\Debug\net6.0\ref\Desafio-Target-5.dll

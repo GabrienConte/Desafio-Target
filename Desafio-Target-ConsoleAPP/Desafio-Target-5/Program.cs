@@ -1,9 +1,22 @@
-﻿int indice = 13, soma = 0, k =0;
+﻿using Desafio_Target_5;
 
-while(k < indice)
+bool isValorValido;
+
+do
 {
-    k += 1;
-    soma += k;
-}
+    Console.WriteLine("Insira um texto para inverter:");
+    string valor = Console.ReadLine();
+    if (!String.IsNullOrEmpty(valor.Trim()))
+    {
+        isValorValido = true;
 
-Console.WriteLine(soma);
+        valor = InverteString.StringInvertida(valor);
+
+        Console.WriteLine(String.Format("Seu texto invertido: {0}",valor));
+    }
+    else
+    {
+        isValorValido = false;
+        Console.WriteLine("Nenhum valor inserido!");
+    }
+} while (!isValorValido);
