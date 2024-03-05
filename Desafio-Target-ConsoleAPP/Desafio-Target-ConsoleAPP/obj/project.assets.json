@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gabriel Conte\\source\\repos\\Desafio-Target-ConsoleAPP\\Desafio-Target-ConsoleAPP\\Desafio-Target-1.csproj",
+      "projectUniqueName": "C:\\Users\\Gabriel Conte\\source\\repos\\Desafio-Target\\Desafio-Target-ConsoleAPP\\Desafio-Target-ConsoleAPP\\Desafio-Target-1.csproj",
       "projectName": "Desafio-Target-1",
-      "projectPath": "C:\\Users\\Gabriel Conte\\source\\repos\\Desafio-Target-ConsoleAPP\\Desafio-Target-ConsoleAPP\\Desafio-Target-1.csproj",
+      "projectPath": "C:\\Users\\Gabriel Conte\\source\\repos\\Desafio-Target\\Desafio-Target-ConsoleAPP\\Desafio-Target-ConsoleAPP\\Desafio-Target-1.csproj",
       "packagesPath": "C:\\Users\\Gabriel Conte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gabriel Conte\\source\\repos\\Desafio-Target-ConsoleAPP\\Desafio-Target-ConsoleAPP\\obj\\",
+      "outputPath": "C:\\Users\\Gabriel Conte\\source\\repos\\Desafio-Target\\Desafio-Target-ConsoleAPP\\Desafio-Target-ConsoleAPP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gabriel Conte\\AppData\\Roaming\\NuGet\\NuGet.Config",
